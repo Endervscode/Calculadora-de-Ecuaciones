@@ -1,0 +1,5 @@
+{
+  "name": "EquaSolve",
+  "description": "Una aplicación para resolver ecuaciones diferenciales de primer orden paso a paso.",
+  "requestFramePermissions": []
+}
